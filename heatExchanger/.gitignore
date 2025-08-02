@@ -1,0 +1,5 @@
+heatExchanger/processor*
+heatExchanger/postProcessing/
+heatExchanger/*.log
+heatExchanger/*.foam
+heatExchanger/*.vtk
